@@ -7,9 +7,8 @@ def chack_name(name):
         print("not Match ")
         return False
 
-
+## evriting is fine 
 input_name=input("what is your name?")
-print ("ok")
 chack_name(str(input_name))
 
 print("proces is done")
